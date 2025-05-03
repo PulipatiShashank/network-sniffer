@@ -2,7 +2,7 @@
 
 This is a basic Python-based **network packet sniffer** designed for **educational purposes**. It captures **IPv4** packets using raw sockets, allowing you to see network traffic on your local machine. This tool is intended for learning about networking, protocols, and raw socket programming.
 
-> **Important**: This tool only works on **Windows** and requires **Administrator privileges** to run.
+> **Important**: This tool only works on **Linux** / **Windows** and requires **Administrator privileges** to run.
 
 ---
 
